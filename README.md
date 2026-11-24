@@ -98,3 +98,4 @@ Respostas: `204` sem corpo após a exclusão, `400` para UUID inválido e `404`
 quando o curso não existir, com `{"error":"Curso não encontrado: <id>"}`.
 A exclusão remove o curso do banco e preserva sua categoria.
 # Desafio2_Java_RockSeat
+# Desafio2_Java_RockSeat
